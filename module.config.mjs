@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 export default {
   type: 'feature',
   order: 40, // Before user-ui (60) and user-api (50) just in case, though registry order doesn't strictly matter for templates
